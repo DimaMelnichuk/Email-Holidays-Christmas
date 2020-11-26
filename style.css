@@ -1,0 +1,129 @@
+body {
+	width: 100% !important;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	margin: 0;
+	padding: 0;
+	line-height: 100%;
+	font-family: 'PT Sans', sans-serif;
+}
+
+img {
+	outline: none;
+	text-decoration: none;
+	border:none;
+	-ms-interpolation-mode: bicubic;
+	max-width: 100%!important;
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+table td {
+	border-collapse: collapse;
+}
+
+table {
+	border-collapse: collapse;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+.header-logo {
+	padding-top: 105px;
+	padding-bottom: 15px;
+}
+.header-title {
+	padding-bottom: 200px;
+}
+.header-title h1{
+	color: #be0f34;
+	font-weight: 600;
+	font-size: 75px;
+	line-height: 75px;
+	margin: 0;
+	background: rgba(255, 255, 255, .8);
+	text-align: center;
+	border-radius: 10px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 15px;
+	padding-left: 15px;
+	max-width: 620px;
+}
+.descr p{
+	color: #000000;
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 500;
+	text-align: center;
+	margin: 0;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 110px;
+	padding-left: 110px;
+}
+.content-item {
+	padding-bottom: 35px;
+}
+.content-img{
+	background: #E5E6EB;
+}
+.content-box {
+	color: #FFFFFF;
+	text-align: center;
+	background: #be0f34;
+	padding-top: 15px;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	margin-bottom: 30px;
+}
+.content-title {
+	font-weight: 500;
+	font-size: 30px;
+	margin-bottom: 15px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.content-descr {
+	margin: 0;
+	line-height: 35px;
+	font-size: 25px;
+	font-weight: 200;
+}
+.socials {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.socials-title p{
+	margin: 0;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight: 500;
+	
+	padding-bottom: 20px;
+	text-align: center;
+}
+.socials-item {
+	width: 70px;
+}
+.footer {
+	padding-top: 20px;
+	padding-bottom: 25px;
+}
+.footer-copyright p{
+	font-size: 13px;
+	line-height: 18px;
+	margin: 0;
+	margin-bottom: 15px;
+}
+.socials-img {
+	width: 70px;
+	height: 70px;
+}
+.footer-link a{
+	color: #000000;
+	font-size: 15px;
+   font-weight: 500;
+}
